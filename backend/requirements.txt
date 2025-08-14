@@ -1,0 +1,9 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+pydantic==2.7.4
+python-dotenv==1.0.1
+numpy==1.22.0   # TTS 0.22.0 requires this on Python 3.10
+soundfile==0.12.1
+python-multipart==0.0.9
+# Premium TTS
+TTS>=0.22.0
